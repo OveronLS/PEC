@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+    background-color: #e2dbc8;
+}
+header {
+    background-color: #413736;
+    padding: 10px;
+}
+header nav ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	padding: 5px;
+	padding-left: 20%;
+}
+header nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	font-size: 1.1875em; /*19px / 16px */
+	margin-right: 1.473684211em;
+}
+header nav ul li a {
+	text-decoration: none;
+	color: #e66864;
+}
+header nav ul li.in a {
+	color: #fff;
+}
+main h2 {
+    margin: 2% 19.2% 2% 23%;
+    color: #53747b;
+}
+main ul {
+    text-align: justify;
+    margin: 2% 23%;
+}
+main ul li {
+    list-style-type: none;
+}
+main ul ol {
+    margin: 0% 5%;
+}
+i.fa-expand-alt {
+    color: red;
+}
+i.fa-cube {
+    color: blue;
+}
+i.fa-thumbs-up {
+    color: deeppink;
+}
+i.fa-microchip {
+    color: blueviolet;
+}
+article header {
+    background-color: #e2dbc8;
+}
+h1 {
+    margin-top: 10%;
+    color: #5e696b;
+    font-size: 3em;
+    margin: 1%;
+    text-align: center;
+}
+article h2 {
+    color: red;
+    padding: 0% 23%;
+    font-size: 1.30em;
+    margin: 2% 0%;
+    text-align: justify;
+}
+article figure img{
+    border:white 9px solid;
+    width: 850px;
+    margin-left: 23%;
+}
+article header p {
+    text-align: right;
+    margin-right: 19.2%;
+}
+article section h3 {
+    margin: 2% 23%;
+    color: #53747b;
+}
+article a {
+    color: red;
+}
+article section p {
+    text-align: justify;
+    padding: 0% 19.2% 0% 23%;
+}
+section blockquote {
+    padding: 15px 0px;
+    margin: 2% 19.2% 2% 23%;
+    color: red;
+    background-color: white;
+    border-left: 4px solid grey;
+    font-size: 20px;
+    text-align: left;
+  }
+section blockquote p {
+    color: black;
+    text-align: left;
+    margin: 2% 2%;
+    padding: 0px;
+    font-size: 16px;
+}
+aside blockquote {
+    padding: 15px 0px;
+    margin: 2% 19.2% 2% 23%;
+    color: #53747b;
+    background-color: white;
+    border-left: 4px solid grey;
+    font-size: 20px;
+    text-align: left;
+}
+aside blockquote h4 {
+    color: black;
+    margin: 2% 2%;
+}
+aside blockquote p {
+    margin: 2% 2%;
+}
+main p.Fin{
+    text-align: justify;
+    padding: 2% 23%;
+    color: #53747b;
+}
+main p.Fin a {
+    color: #53747b;
+}
+dl dt {
+    margin: 2% 19.2% 2% 23%;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+dl dd {
+    text-align: justify;
+    margin: 1% 19.2% 0% 23%;
+}
+dl dd p {
+    color: #53747b;
+}
+dl dt a {
+    color: #ffffff;
+    background-color: #e66864;
+    border-radius: 7px;
+    border: 2px solid #e66864;
+    float: right;
+    padding: 8px;
+    font-weight: 200;
+    font-size: 16px;
+}
+footer {
+    margin-top: 4%;
+    background-color: #586c6a;
+    padding: 15px 15px;
+}
+footer img {
+    margin-top: 1%;
+    margin-left: 25%;
+}
+footer p {
+    display: inline;
+    text-align: right;
+    margin-right: 19.2%;
+}
+
